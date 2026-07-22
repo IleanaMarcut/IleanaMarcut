@@ -47,6 +47,7 @@ Where design work is heading as the tools change.
 - **[Designing The Shift](https://designingtheshift.com/)**. Anonymous reflections on how AI is changing design work.
 - **[Noyzzi](https://noyzzi.com/)**. Interactive sections and hover effects, each with a prompt you can copy.
 - **[UX + AI Prompt Library](https://github.com/IleanaMarcut/ux-ai-prompt-library)**. 22 prompts for designers and product people, ready to copy.
+- **[AI Design Principles](https://github.com/IleanaMarcut/ai-design-principles)**. 20 lenses for how an AI product should behave.
 - **[Cynora](https://cynora.space/)**. An explorable canvas of visual fragments.
 - **[Moving Eyes](https://ileanamarcut.github.io/moving_eyes/)**. A wall of ink drawn eyes that follow your cursor. They blink.
 - **[Creative Canvas](https://creativecanvas.vibsy.ai/)**. Build color scales with contrast ratings on every step.
